@@ -1,5 +1,5 @@
 ## O Hospital Fundamental (uma história para começar)
-**Atrazes de uma atividade passada pelo professor Gabriel realizamos um DRE, a atividade consiste na seguinte questão:**
+**Através de uma atividade passada pelo professor Gabriel realizamos um DRE, a atividade consiste na seguinte questão:**
 O hospital necessita de um sistema para sua área clínica que ajude a controlar consultas realizadas. Os médicos podem ser generalistas, especialistas ou residentes e têm seus dados pessoais cadastrados em planilhas digitais. Cada médico pode ter uma ou mais especialidades, que podem ser pediatria, clínica geral, gastroenterologia e dermatologia. Alguns registros antigos ainda estão em formulário de papel, mas será necessário incluir esses dados no novo sistema.
 
 Os pacientes também precisam de cadastro, contendo dados pessoais (nome, data de nascimento, endereço, telefone e e-mail), documentos (CPF e RG) e convênio. Para cada convênio, são registrados nome, CNPJ e tempo de carência.
